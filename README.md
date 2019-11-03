@@ -11,7 +11,9 @@ $ npm start
 
 This will open `http://localhost:3000` in a new browser tab. The resulting page should look like the following
 
-<img height="300" src="assets/todo_list.png" alt="loaded todo list" />
+<kbd>
+  <img style= height="300" src="assets/todo_list.png" alt="loaded todo list" />
+</kbd>
 
 # Prerequisites
 
